@@ -1,0 +1,7 @@
+data/
+MNIST_data/
+*.docx
+大纲.ipynb
+project2-regression/
+.ipynb_checkpoints
+
